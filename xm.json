@@ -12,7 +12,7 @@
 "spider":"clan://xm/xm.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
-"proxy://do=live&type=txt&ext=https://zhouyue729.github.io/yueyue729/zhibo.txt"
+"proxy://do=live&type=txt&ext=https://github.com/zhouyue729/yueyue729/blob/main/tv/live.txt"
 ]}]}],
 
 
